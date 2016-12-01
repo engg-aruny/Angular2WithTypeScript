@@ -7,6 +7,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "removeComments": false,
+    "outDir": "./app/ts-built/",
+    "rootDir": "app",
     "noImplicitAny": false
   }
 }

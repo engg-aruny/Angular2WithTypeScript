@@ -1,0 +1,1 @@
+{"version":3,"file":"tsc.js","sourceRoot":"","sources":["../components/heroes.component.ts","../model/hero.ts","../service/hero.service.ts","../components/hero-detail.component.ts","../components/dashboard.component.ts","../app-routing.module.ts","../components/app.component.ts","../app.module.ts","../main.ts","../spec/mock/mock-heroes.ts"],"names":[],"mappings":""}
